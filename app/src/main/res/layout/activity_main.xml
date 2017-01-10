@@ -15,12 +15,6 @@
         tools:context="id.sch.smktelkom_mlg.learn.advancedwidget1.MainActivity"
         android:weightSum="1">
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Jumlah Anak"
-            android:id="@+id/textView" />
-
         <Spinner
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
